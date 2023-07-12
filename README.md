@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jamesj64 I'll add more to this page soon. I'm slowly adding some of my personal projects on here.
-<!---- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
+- 👋 Hi, I’m @jamesj64. I'm studying Computer Science at the University of Waterloo and am seeking Winter 2024 internships.
+
+- 🌱 I’m currently learning about DevOps tools such as Docker/Kubernetes and forex trading
+- 📫 Email me at jamesjordan2027@gmail.com
 
 <!---
 jamesj64/jamesj64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
