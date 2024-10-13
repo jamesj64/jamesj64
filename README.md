@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jamesj64. I'm studying Computer Science at the University of Waterloo and am seeking Fall 2024 internships.
-
-- 🌱 I’m currently learning about DevOps tools such as Docker/Kubernetes and derivatives trading
+- 👋 Hi, I’m @jamesj64. I'm studying Computer Science at the University of Waterloo and am seeking Summer 2025 internships.
 - 📫 Email me at james.jordan@uwaterloo.ca
 
 <!---
